@@ -15,7 +15,7 @@
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Kyerstorm/QR-Code-Components)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-layout-imitation-4mefWZA4ie)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
